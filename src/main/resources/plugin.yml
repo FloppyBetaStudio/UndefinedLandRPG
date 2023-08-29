@@ -1,0 +1,4 @@
+name: UndefinedLandRPG
+version: '${project.version}'
+main: com.iruanp.undefinedlandrpg.UndefinedLandRPG
+api-version: '1.20'
